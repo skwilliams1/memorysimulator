@@ -1,4 +1,6 @@
-The requirements for the project are detailed in the file p2-memsim. To project requires the implementation of a page replacement algorithm that used stored memory addresses from two files:
+Memory Simulator - Paging
+
+This is the implementation of a page replacement algorithm that used stored memory addresses from two files:
 - bzip.trace.zip
 - sixpack.trace.zip
 
