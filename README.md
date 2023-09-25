@@ -1,6 +1,6 @@
 Memory Simulator - Paging
 
-This is the implementation of a page replacement algorithm that used stored memory addresses from two files:
+This is the implementation of a page replacement algorithm that uses stored memory addresses from two files:
 - bzip.trace.zip
 - sixpack.trace.zip
 
